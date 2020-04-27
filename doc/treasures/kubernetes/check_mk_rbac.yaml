@@ -23,7 +23,7 @@ rules:
   - extensions
   - batch
   - autoscaling
-  - networking.k8s.io/v1beta1
+  - networking.k8s.io/v1
   resources:
   - componentstatuses
   - nodes
